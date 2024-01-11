@@ -1,0 +1,54 @@
+
+
+*{
+    font-family: sans-serif;
+}
+
+#button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-right: 2px solid aqua;
+    border-bottom: 2px solid aqua;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+p {
+    width: 50%;
+}
+
+  #button2 {
+      background-color: black;
+      color: white;
+      border: none;
+      border-right: 2px solid rgb(0, 38, 255);
+      border-bottom: 2px solid rgb(0, 38, 255);
+      padding: 10px 20px;
+      font-weight: bold;
+  }
+  
+  #button3 {
+      background-color: black;
+      color: white;
+      border: none;
+      border-right: 2px solid rgb(43, 255, 0);
+      border-bottom: 2px solid rgb(43, 255, 0);
+      padding: 10px 20px;
+      font-weight: bold;
+  }
+  
+  #button4 {
+      background-color: black;
+      color: white;
+      border: none;
+      border-right: 2px solid rgb(255, 157, 0);
+      border-bottom: 2px solid rgb(255, 157, 0);
+      padding: 10px 20px;
+      font-weight: bold;
+  }
+  
+  p {
+      width: 50%;
+  } 
+  
